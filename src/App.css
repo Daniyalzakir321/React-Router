@@ -1,0 +1,26 @@
+.header{
+    background-color: rgb(84, 84, 231);
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    text-transform: uppercase;
+}
+
+
+.footer{
+    background-color: rgb(240, 12, 12);
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    text-transform: uppercase;
+
+}
+.center{
+text-align: center;
+text-transform: uppercase;
+
+}
+
+img{
+    border-radius: 50px;
+    height: 200px;
+    width: 400px;
+}
